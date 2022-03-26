@@ -6,7 +6,7 @@ using namespace std;
 
 int main() {
 
-	cout << "Hello World!123456";
+	cout << "Hello World!123";
 
 	return 0;
 }
