@@ -1,4 +1,4 @@
-//2017203058 �豤��
+//2017203058 ±è±¤Çö
 
 #include <iostream>
 
@@ -9,7 +9,7 @@ int main() {
 	cout << "Hello World!";
 	cout << "Hello World!";
 
-	cout << "Bye Bye Bye";
+	cout << "Bye Bye";
 
 	return 0;
 }
